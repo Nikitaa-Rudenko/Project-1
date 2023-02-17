@@ -1,0 +1,32 @@
+h1 {
+    font-size: 40px;
+    color:   rgb(195, 112, 199);
+}
+h4 {
+    color: brown;
+}
+img {
+    width: 500px;
+    height: 650px;
+}
+.html1 {
+    background-image: url(https://catherineasquithgallery.com/uploads/posts/2021-02/1612903947_202-p-krasnii-fon-s-serdechkami-dlya-fotoshopa-231.jpg);
+}
+.movies1 {
+    background-image: url(https://phonoteka.org/uploads/posts/2021-06/1623285083_28-phonoteka_org-p-tekstura-kinoteatr-krasivo-35.jpg);
+}
+button {
+    margin-left: 700px;
+}
+.output {
+    margin-left: 690px;
+}
+.link1 {
+    color: beige;
+}
+.h_1 {
+    color: rgb(40, 186, 191);
+}
+.films {
+    color: rgb(163, 50, 204);
+}
